@@ -1,0 +1,3 @@
+C:/Users/k09_3pr02/Documents/Clion/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/k09_3pr02/Documents/Clion/test/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/k09_3pr02/Documents/Clion/test/cmake-build-debug/CMakeFiles/edit_cache.dir
